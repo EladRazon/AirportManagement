@@ -82,8 +82,6 @@ This project adheres to key programming principles to enhance maintainability an
     ./airport_management
     ```
 
----
-
 ## 🚀 Usage Instructions
 
 ### Running the System
