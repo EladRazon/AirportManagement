@@ -83,14 +83,17 @@ This project adheres to key programming principles to enhance maintainability an
     ```
 
 ## 🚀 Usage Instructions
-User Interface
+
+### 🖥️ User Interface
 The system provides an interactive menu with the following options:
-1.	Add a New Airport: Create and store a new airport.
-2.	Add a Flight: Schedule a flight for a specific airport.
-3.	View Airports: Display a list of all airports.
-4.	View Flights: Query and display flight details.
-5.	Search Airports: Find an airport by its name.
-6.	Exit: Safely exit the program.
+
+1. **✈️ Add a New Airport**: Create and store a new airport.
+2. **🛫 Add a Flight**: Schedule a flight for a specific airport.
+3. **📋 View Airports**: Display a list of all airports.
+4. **🛬 View Flights**: Query and display flight details.
+5. **🔍 Search Airports**: Find an airport by its name.
+6. **❌ Exit**: Safely exit the program.
+
 
 ## 🔍 Input Validation
 The system ensures the correctness of all user inputs:
