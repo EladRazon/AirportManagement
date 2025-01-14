@@ -83,15 +83,6 @@ This project adheres to key programming principles to enhance maintainability an
     ```
 
 ## 🚀 Usage Instructions
-
-### Running the System
-1. **Compile the Program**:
-   ```bash
-   gcc -o airport_management main.c *.c
-2.	Run the Program:
-   ```bash
-   ./airport_management
-   ```
 User Interface
 The system provides an interactive menu with the following options:
 1.	Add a New Airport: Create and store a new airport.
