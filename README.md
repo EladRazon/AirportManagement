@@ -1,5 +1,7 @@
 # ✈️ Airport Management System
 
+________________________________________
+
 ## 📋 Project Overview
 This project is a **C-based airport management system** designed to efficiently manage various aspects of airport operations. It offers:
 - Creation and management of airports
@@ -102,18 +104,16 @@ The system provides an interactive menu with the following options:
 5.	Search Airports: Find an airport by its name.
 6.	Exit: Safely exit the program.
 
-________________________________________
 ## 🔍 Input Validation
 The system ensures the correctness of all user inputs:
 •	String Inputs: Names of airports must follow the defined format.
 •	Numeric Inputs: Flight numbers and other numeric data must be within valid ranges.
 •	Error Recovery: Invalid inputs trigger detailed error messages and allow for re-entry.
-________________________________________
+
 ## 📈 Future Expandability
 This system is designed with scalability in mind, allowing for:
 •	Adding new features, such as real-time flight tracking.
 •	Extending existing modules without altering the core structure.
-________________________________________
+
 ## 🙌 Acknowledgments
 This project draws inspiration from real-world airport management systems.
-________________________________________
