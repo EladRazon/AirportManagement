@@ -43,7 +43,7 @@ The project emphasizes a modular code structure, efficient data handling, and a 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/YourUsername/Airport_Management.git
+    git clone https://github.com/EladRazon/AirportManagement.git
     ```
 
 2. **Navigate to the Project Directory**:
