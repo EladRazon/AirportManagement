@@ -1,6 +1,5 @@
 # ✈️ Airport Management System
 
-________________________________________
 
 ## 📋 Project Overview
 This project is a **C-based airport management system** designed to efficiently manage various aspects of airport operations. It offers:
@@ -93,7 +92,7 @@ This project adheres to key programming principles to enhance maintainability an
    gcc -o airport_management main.c *.c
 2.	Run the Program:
    ```bash
-./airport_management
+   ./airport_management
 ```
 User Interface
 The system provides an interactive menu with the following options:
